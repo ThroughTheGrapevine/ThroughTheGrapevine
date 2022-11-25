@@ -11,6 +11,5 @@ list of skills:
 - python automation
 - seo link building
 - marketing and advertising
-- laws and legality specialization
 
 For business inquires or other means of communication you may contact me via discord: MiceOnVenus#0101
