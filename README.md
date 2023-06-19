@@ -1,4 +1,4 @@
-### Hi there 👋
+###👋
 
 Welcome to my github! I specialize in the management of web applications, seach engine optimzation, organizational web application construction and a little bit of coding 
 here and there.
