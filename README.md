@@ -12,4 +12,4 @@ list of skills:
 - seo link building
 - marketing and advertising
 
-For business inquires or other means of communication you may contact me via discord: MiceOnVenus#0101
+For business inquires or other means of communication you may contact me via email throughthegrapvine@proton.me.
